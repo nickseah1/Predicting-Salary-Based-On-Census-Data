@@ -9,4 +9,4 @@ Identified factors that influence the salary of an individual.
 
 Explored Naive Bayes, Decision Trees, and Random Forest Trees Algorithms. 
 
-Implemented a Random Forest Machine Learning Algorithm as it had the highest accuracy.
+*Implemented a Random Forest Machine Learning Algorithm as it had the highest accuracy.
